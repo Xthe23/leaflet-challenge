@@ -1,5 +1,3 @@
-"# leaflet-challenge"
-
 # leaflet-challenge
 
 This is the README file for the leaflet-challenge project.
